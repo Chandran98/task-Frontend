@@ -60,7 +60,6 @@ try {
   
 },[]);
 
-// adsf
   // if (!user) {
   //   return history.push("/login");
   // }
